@@ -1,4 +1,3 @@
-# dataset
 # Time Series Datasets Repository
 
 This repository houses a collection of valuable time series datasets ready for your analytical needs.
