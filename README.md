@@ -16,7 +16,7 @@ The repository contains a single `.zip` file with the following datasets:
 
 ## How to Download
 
-To download the datasets, simply visit the repository at [https://github.com/sdmrl/dataset](https://github.com/sdmrl/dataset) and download the `datasets.zip` file.
+To download the datasets, simply visit the repository at [https://github.com/sdmrl/dataset](https://github.com/sdmrl/dataset) and download the `dataset.zip` file.
 
 ## How to Use
 
