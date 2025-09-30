@@ -1,24 +1,3 @@
-# Time Series Datasets Repository
-
-This repository houses a collection of valuable time series datasets ready for your analytical needs.
-
-## Datasets Included
-
-The repository contains a single `.zip` file with the following datasets:
-- Load
-- Stock
-- Champagne sales
-- Sunspot
-- Pphil
-- Ssack
-- River-flow
-- Water-usage
-
-## How to Download
-
-To download the datasets, simply visit the repository at [https://github.com/sdmrl/STL-SATVNet](https://github.com/sdmrl/STL-SATVNet) and download the `dataset.zip` file.
-
-## How to Use
-
-1. Extract the `.zip` file to access the datasets.
-2. Use the datasets with your preferred data analysis tools.
+# Dataset
+The main dataset files are stored externally due to their size.
+​​Download link: https://pan.baidu.com/s/13Fc23RyZAgvyvLTC1EQzuw?pwd=hvc8
